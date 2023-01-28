@@ -1,1 +1,3 @@
-# daily-challenge
+### 100 dana kodiranja
+
+Daily challenge
